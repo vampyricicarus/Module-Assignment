@@ -1,0 +1,1 @@
+If you create a function in one file, you can import it into other files in the same directory using modules. Simply call them using import and then use them using modulename.functionname in the target file
